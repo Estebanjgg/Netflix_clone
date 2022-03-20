@@ -10,14 +10,14 @@
 }
 
 /*elementos base*/
-body{
+.body{
  background: var(--preta);
  font-family: 'Arial', Times, serif;
  color:white;
 }
 
 
-header .container{
+header .container1{
   display:flex;
   flex-direction: row;
   align-items: center;
@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
   font-size:16px;
-  background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/capa-house.jpg');
+  background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/kJa6C08kVw4HSMminxO0r2wuioM.jpg');
 
   height:400px;
   background-size:cover;
@@ -71,7 +71,7 @@ header nav a:hover{
   font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
-.botao{
+.botao1{
   background-color: rgba(0,0,0,.50);
   border:none;
   color: white;
@@ -84,21 +84,21 @@ header nav a:hover{
   transition: .3s ease all;
 }
 
-.botao:hover{
+.botao1:hover{
   background-color:white;
   color:black;
 }
 
-.botao i{
+.botao1 i{
   margin-right: 8px;
 }
 
 
-.container{
+.container1{
   margin-left: 20px;
 }
 
-.filme-principal .container{
+.filme-principal .container1{
   width: 70%;
 }
 
@@ -112,6 +112,19 @@ header nav a:hover{
 
 .carrosel-filmes{
   margin-top:5px;
+}
+
+.title2 {
+  margin-top: 15px;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.title3 {
+  margin-top: 8px;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+    
 }
 
 
