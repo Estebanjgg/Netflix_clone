@@ -1,5 +1,9 @@
 # EstebanAnime
+
 <code><h1>Replicando La pagina De NetFlix a Estilo ESTEBAN </h1></code>
+<br>
+<br>
+
 <img src="https://i.postimg.cc/qkw8JmyR/Screenshot-2.png" class="img" >
 
 
