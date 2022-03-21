@@ -38,7 +38,6 @@ header nav a{
   margin-right: 10px;
 }
 
-
 header nav a:hover{
   color:#fff;
 }
@@ -59,14 +58,14 @@ header nav a:hover{
 }
 
 
-.filme-principal .descricao{
+.filme-principal .descricao1{
   margin-top: 10px;
   margin-bottom: 40px;
 }
 
 
-.filme-principal .titulo{
-  margin-top: 15%;
+.filme-principal .titulo1{
+  margin-top: 10%;
   font-size: 40px;
   font-family: 'Trebuchet MS', Arial, sans-serif;
 }
@@ -126,7 +125,6 @@ header nav a:hover{
   font-family: 'Trebuchet MS', Arial, sans-serif;
     
 }
-
 
 
 
